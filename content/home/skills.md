@@ -12,24 +12,36 @@ subtitle = ""
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see:	
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  #description = "100%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Matlab"
+  #description = "100%"  
+  
+  [[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "Overleaf"
+  #description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "github"
+  icon_pack = "fab"
+  name = "Github"
+  #description = "10%"
+
+  
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fa"
+  name = "Stata"
 
 +++
